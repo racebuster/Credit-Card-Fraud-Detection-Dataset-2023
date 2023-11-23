@@ -30,7 +30,7 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 
 
 # Importing Dataset.
-credit_card = pd.read_csv("C:\Home\Data\BIA project\Model\creditcard_2023.csv")
+credit_card = pd.read_csv("/kaggle/input/credit-card-fraud-detection-dataset-2023/creditcard_2023.csv")
 
 
 # In[3]:
