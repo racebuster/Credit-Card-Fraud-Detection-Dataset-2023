@@ -1,12 +1,13 @@
 # Credit-Card-Fraud-Detection-Model-2023
+### DataSet link - https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
 #### This dataset contains credit card transactions made by European cardholders in the year 2023. It comprises over 550,000 records, and the data has been anonymized to protect the cardholders' identities. The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions.
 ###### Key Features:
 ###### id: Unique identifier for each transaction
 ###### V1-V28: Anonymized features representing various transaction attributes (e.g., time, location, etc.)
 ###### Amount: The transaction amount
 ###### Class: Binary label indicating whether the transaction is fraudulent (1) or not (0)
-###### 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣
- Data Science project on Credit Card Fraud Prediction Model, a capstone project by Boston Institute of Analytics! 
+𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣
+Data Science project on Credit Card Fraud Prediction Model, a capstone project by Boston Institute of Analytics! 
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 In this initiative, I designed and implemented a predictive model aimed at identifying potential fraud in credit card transactions. Leveraging a comprehensive dataset comprising 568,630 rows and 31 columns, the project addresses the critical need for advanced fraud detection in the financial sector.
