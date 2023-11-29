@@ -7,6 +7,7 @@
 ###### Amount: The transaction amount
 ###### Class: Binary label indicating whether the transaction is fraudulent (1) or not (0)
 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣
+
 Data Science project on Credit Card Fraud Prediction Model, a capstone project by Boston Institute of Analytics! 
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
