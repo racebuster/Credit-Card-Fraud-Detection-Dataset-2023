@@ -18,10 +18,10 @@ Data Purity: The model's foundation rests on a dataset devoid of duplicates and 
 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:
 The project has yielded impressive results in terms of accuracy, precision, and recall, showcasing its efficacy in detecting credit card fraud. By leveraging machine learning algorithms, the model contributes to enhancing the security and trustworthiness of financial transactions.
 I have used Four Models to Predict the accuracy as a part of the Project
-Model 1 - 𝗥𝗮𝗻𝗱𝗼𝗺 𝗙𝗼𝗿𝗲𝘀𝘁 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗲𝗿, 𝗔𝗰𝗰𝘂𝗿𝗮𝗰𝘆 = 𝟵𝟵.𝟵𝟳𝟵𝟳𝟳%
-Model 2 - Logistic Regression, Accuracy = 96.49596%
-Model 3 - XGBClassifier, Accuracy = 99.97010%
-Model 4 - Support Vector Machine, Accuracy = 99.70894%
+- Model 1 - 𝗥𝗮𝗻𝗱𝗼𝗺 𝗙𝗼𝗿𝗲𝘀𝘁 𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗲𝗿, 𝗔𝗰𝗰𝘂𝗿𝗮𝗰𝘆 = 𝟵𝟵.𝟵𝟳𝟵𝟳𝟳%
+- Model 2 - Logistic Regression, Accuracy = 96.49596%
+- Model 3 - XGBClassifier, Accuracy = 99.97010%
+- Model 4 - Support Vector Machine, Accuracy = 99.70894%
 
 𝐈𝐦𝐩𝐚𝐜𝐭:
 This project has significant implications for the financial industry, providing a proactive approach to combatting credit card fraud. The model's reliability makes it a valuable asset for financial institutions looking to bolster their security measures and protect their clients from potential risks.𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙩𝙞𝙤𝙣 Data Science project on Credit Card Fraud Prediction Model
